@@ -8,7 +8,6 @@ The Arduino’s Bluetooth-controlled robot car is interfaced with a Bluetooth mo
 
 ![App Layout](https://user-images.githubusercontent.com/73869250/132138094-129c6789-e6e9-4858-b59a-8b4984bd14e3.jpg)
 ![Bot](https://user-images.githubusercontent.com/73869250/132138103-89aacfe6-44ea-4a7b-886a-248e0e650099.jpg)
-![Team Members](https://user-images.githubusercontent.com/73869250/132138106-abf52511-3541-41aa-8ea9-e5294d58bb05.jpg)
 ![Track 1](https://user-images.githubusercontent.com/73869250/132138107-2a4aa0ac-9ce4-4403-80e7-e980f26b0b4a.png)
 ![Track image 1](https://user-images.githubusercontent.com/73869250/132138109-22dc4da8-31e4-4d5e-bafa-d163a0bddb20.png)
 ![Track image 2](https://user-images.githubusercontent.com/73869250/132138117-7141c7b6-e997-49cc-a7e2-2c224f150236.png)
