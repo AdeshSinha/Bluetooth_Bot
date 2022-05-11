@@ -1,4 +1,4 @@
-# Bluetooth-Bot
+# Bluetooth_Bot
 A basic robotics project containing containing code about the working of a bluetooth controlled bot. 
 
 The project contains Wireless Bluetooth Controlled Robot Car Using Arduino. The robotic car can be controlled wirelessly via a Smartphone. The smartphone has an Android app through which the user can send commands directly to Robot. The robot can move forward, backward, left, and right and can also be stopped.
